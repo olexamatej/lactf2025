@@ -13,7 +13,7 @@ After testing, I confirmed that if we upload **HTML**, it gets rendered in the b
 To test this, I uploaded a simple script that changes the document title:  
 ```html
 <script>
-  document.title = "test";
+  document.title = "XSS executed";
 </script>
 ```
 ![XSS Test](imgs/image-1.png)  
