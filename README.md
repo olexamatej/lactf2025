@@ -1,4 +1,4 @@
-# LACTF25 Writeups  
+# LACTF2025 Writeups  
 [LACTF Website](https://lac.tf/)  
 
 This repository contains detailed writeups for the challenges from LACTF 2025. Each challenge is organized into its own directory, named after the respective problem.  
